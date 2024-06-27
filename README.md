@@ -50,6 +50,6 @@ Based on the analysis, the dashboard provides insights such as:
 - Exclusion of records with negative ages and future term dates during analysis.
 - Data focuses on employees aged 18 years and above for accuracy.
 
----
+## Dashboard
+![image](https://github.com/sohamkapadi/HR_data_analytics/assets/99285197/56bdedf9-f83c-4e04-a5ec-2097642fb1b6)
 
-Feel free to customize this `README.md` further based on additional insights or specific features of your HR data analytics dashboard. Let me know if there's anything else you'd like to include or adjust!
