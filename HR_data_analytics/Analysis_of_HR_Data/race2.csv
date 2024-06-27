@@ -1,0 +1,22 @@
+race,gender,count
+"American Indian or Alaska Native",Non-Conforming,32
+"American Indian or Alaska Native",Male,525
+"American Indian or Alaska Native",Female,494
+Asian,Non-Conforming,66
+Asian,Male,1413
+Asian,Female,1312
+"Black or African American",Non-Conforming,87
+"Black or African American",Male,1451
+"Black or African American",Female,1302
+"Hispanic or Latino",Non-Conforming,54
+"Hispanic or Latino",Male,1000
+"Hispanic or Latino",Female,940
+"Native Hawaiian or Other Pacific Islander",Non-Conforming,28
+"Native Hawaiian or Other Pacific Islander",Male,491
+"Native Hawaiian or Other Pacific Islander",Female,433
+"Two or More Races",Non-Conforming,86
+"Two or More Races",Male,1494
+"Two or More Races",Female,1287
+White,Non-Conforming,128
+White,Male,2537
+White,Female,2322
